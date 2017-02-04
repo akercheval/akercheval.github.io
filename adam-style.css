@@ -7,17 +7,17 @@ body {
  * http://stackoverflow.com/questions/12144000/using-custom-fonts-using-css */
 @font-face {
     font-family: Helvetica Neue;
-    src: url("/usr/share/fonts/Helvetica Neue/HelveticaNeueLTPro-Roman.otf");
+    src: url("HelveticaNeueLTPro-Roman.otf");
 }
 
 @font-face {
     font-family: Lato;
-    src: url("/usr/share/fonts/truetype/lato/Lato-Regular.ttf");
+    src: url("Lato-Regular.ttf");
 }
 
 @font-face {
     font-family: Lato-Bold;
-    src: url("/usr/share/fonts/truetype/lato/Lato-Bold.ttf");
+    src: url("Lato-Bold.ttf");
 }
 
 h1 {
