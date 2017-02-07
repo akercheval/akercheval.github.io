@@ -1,6 +1,6 @@
 body {
     background-image: url("mountains.png");
-    color: Silver;
+    color: #93A1A1;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
@@ -60,7 +60,7 @@ img {
 }
 
 a {
-    color: Silver;
+    color: #93A1A1;
     text-decoration: none;
     font-style: italic;
 }
@@ -87,4 +87,12 @@ a:hover {
 
 .company {
     font-family: "Lato-Bold";
+}
+
+button {
+    background-color: #2AA198;
+}
+
+button:hover {
+    background-color: #D33682;
 }
