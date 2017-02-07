@@ -1,6 +1,6 @@
 # COMP 20 Assignment 1, personal webpage
 ## Adam Kercheval
-## Website: akercheval.github.io
+## Website: [akercheval.github.io](https://akercheval.github.io)
 
 ### Implementation
 To the best of my knowledge, this submission complies completely with the
