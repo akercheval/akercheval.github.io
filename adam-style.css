@@ -1,6 +1,8 @@
 body {
     background-image: url("mountains.png");
     color: Silver;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 /* custom fonts - procedure googled and discovered here:
