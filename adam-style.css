@@ -61,6 +61,13 @@ img {
 
 a {
     color: Silver;
+    text-decoration: none;
+    font-style: italic;
+}
+
+a:hover {
+    font-family: Lato-Bold;
+    background-color: #D33682;
 }
 
 #tagline {
