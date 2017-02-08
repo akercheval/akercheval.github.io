@@ -88,11 +88,3 @@ a:hover {
 .company {
     font-family: "Lato-Bold";
 }
-
-button {
-    background-color: #2AA198;
-}
-
-button:hover {
-    background-color: #D33682;
-}
